@@ -21,6 +21,9 @@
 </p>
 
 ---
+📱 About the App
+Al-Tawfiq Sales and Inventory Management System is a comprehensive solution designed for retail businesses to efficiently manage inventory, sales operations, suppliers, and invoices.
+The app simplifies daily operations, improves stock tracking accuracy, and provides insightful reports to help store owners make better business decisions.
 
 ## 🚀 Features
 
