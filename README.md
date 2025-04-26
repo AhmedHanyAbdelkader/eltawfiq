@@ -1,20 +1,90 @@
-# eltawfiq_suppliers
+# 📱 eltawfiq_suppliers
 
-A new Flutter project.
+وصف بسيط عن التطبيق هنا... (ممكن سطرين أو ثلاثة).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="screenshots/1.png" width="250" style="margin: 10px;"/>
+  <img src="screenshots/2.png" width="250" style="margin: 10px;"/>
+  <img src="screenshots/3.png" width="250" style="margin: 10px;"/>
+  <img src="screenshots/4.png" width="250" style="margin: 10px;"/>
+  <img src="screenshots/5.png" width="250" style="margin: 10px;"/>
+  <img src="screenshots/6.png" width="250" style="margin: 10px;"/>
+  <img src="screenshots/7.png" width="250" style="margin: 10px;"/>
+  <img src="screenshots/8.png" width="250" style="margin: 10px;"/>
+  <img src="screenshots/9.png" width="250" style="margin: 10px;"/>
+  <img src="screenshots/10.png" width="250" style="margin: 10px;"/>
+  <!-- كمل لباقي الصور -->
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+Manage products in the inventory (Add / Edit / Delete).
+
+Record daily sales and instantly generate customer invoices.
+
+Manage supplier information (Add / Edit / Delete suppliers).
+
+Create and track purchase invoices from suppliers.
+
+View detailed reports on sales, purchases, and inventory levels.
+
+Fast search functionality for products, suppliers, and invoices.
+
+Track payments received from customers and payments made to suppliers.
+
+Simple and user-friendly interface for easy navigation.
 
 
+- ...
 
-###  - TODO : don't forget to build new release apk after adding camera permissions
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Provider 
+-  http
+-  get_it
+-  cached_network_image
+-  cached_memory_image
+-  image_picker
+-  image
+-  path_provider
+-  path:
+- whatsapp_unilink
+-  url_launcher
+-  flutter_barcode_scanner
+-  barcode_widget
+-  reorderable_grid_view
+-  flutter_speed_dial
+-  flutter_contacts
+-  permission_handler
+-  flutter_typeahead
+-  equatable
+-  data_connection_checker_nulls
+-  dartz
+-  sidebarx
+-  printing
+-  pdf
+-  intl
+-  carousel_slider
+-  shared_preferences
+-  another_flutter_splash_screen
+-  flutter_textfield_autocomplete
+-  flutter_switch
+-  share_plus
+
+
+---
+
+## 📩 Contact
+
+لو عندك أي استفسار أو اقتراح:  
+[ahmedhanydeveloper@gmail.com] | [https://www.linkedin.com/in/ahmed-hany-801173357/] 
