@@ -1,6 +1,8 @@
 # 📱 eltawfiq_suppliers
 
-وصف بسيط عن التطبيق هنا... (ممكن سطرين أو ثلاثة).
+📱 About the App
+Al-Tawfiq Sales and Inventory Management System is a comprehensive solution designed for retail businesses to efficiently manage inventory, sales operations, suppliers, and invoices.
+The app simplifies daily operations, improves stock tracking accuracy, and provides insightful reports to help store owners make better business decisions.
 
 ---
 
@@ -17,13 +19,10 @@
   <img src="screenshots/8.png" width="250" style="margin: 10px;"/>
   <img src="screenshots/9.png" width="250" style="margin: 10px;"/>
   <img src="screenshots/10.png" width="250" style="margin: 10px;"/>
-  <!-- كمل لباقي الصور -->
 </p>
 
 ---
-📱 About the App
-Al-Tawfiq Sales and Inventory Management System is a comprehensive solution designed for retail businesses to efficiently manage inventory, sales operations, suppliers, and invoices.
-The app simplifies daily operations, improves stock tracking accuracy, and provides insightful reports to help store owners make better business decisions.
+
 
 ## 🚀 Features
 
